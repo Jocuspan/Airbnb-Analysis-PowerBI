@@ -1,6 +1,3 @@
-# Airbnb-Analysis-PowerBI
-Airbnb Data Analysis and Visualization using Power BI
-
 Airbnb Data Analysis Dashboard | Power BI
 Project Overview
 This project uses Power BI to analyze Airbnb listing data, focusing on pricing trends, room types, neighbourhood distribution, availability and host performance.
