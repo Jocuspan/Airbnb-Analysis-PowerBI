@@ -25,3 +25,6 @@ Data Visualization
 
 Tools
 Power BI | Power Query | DAX
+
+Download the original data by clicking below URL:
+https://github.com/Jocuspan/Airbnb-Analysis-PowerBI/releases
